@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299427412668",
+    "project_id": "flash-chat-90025",
+    "storage_bucket": "flash-chat-90025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299427412668:android:945f4cad003d60df28aeb9",
+        "android_client_info": {
+          "package_name": "com.royce.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299427412668-l9rifdq84c205n208736in3gon18d8k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3V-IhOj2CEF2KMKXSV5DioBK3gTeJsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299427412668-l9rifdq84c205n208736in3gon18d8k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
